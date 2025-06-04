@@ -5,9 +5,9 @@
 
 ---
 
-🔗 **Live Demo**: [notezy-b8yh.vercel.app]  
 👉 **Note**: Clicking on the link below may not open the page directly due to GitHub Pages limitations.
 Please copy and paste the link manually into your browser’s address bar to access the live site.
+🔗 **Live Demo**: [notezy-b8yh.vercel.app](notezy-b8yh.vercel.app)  
 📦 **GitHub Repo**: [github.com/Jemis-Tejani/notezy](https://github.com/Jemis-Tejani/notezy.git)
 
 ---
