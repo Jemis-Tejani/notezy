@@ -1,0 +1,50 @@
+.view-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.view-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.copy-btn {
+  padding: 8px 16px;
+  background-color: #b6b09f;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.copy-btn:hover {
+  background-color: #eae4d5;
+}
+
+.share-btn {
+  padding: 8px 16px;
+  background-color: #b6b09f;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.share-btn:hover {
+  background-color: #eae4d5;
+}
+
+.view-textarea {
+  width: 100%;
+  padding: 12px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  resize: none;
+  margin-top: 10px;
+}
