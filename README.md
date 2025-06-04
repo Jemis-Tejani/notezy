@@ -5,7 +5,7 @@
 
 ---
 
-🔗 **Live Demo**: [notezy.vercel.app](notezy-b8yh.vercel.app)  
+🔗 **Live Demo**: [notezy-b8yh.vercel.app](notezy-b8yh.vercel.app)  
 📦 **GitHub Repo**: [github.com/Jemis-Tejani/notezy](https://github.com/Jemis-Tejani/notezy.git)
 
 ---
