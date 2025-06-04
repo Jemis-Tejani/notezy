@@ -1,6 +1,6 @@
 # 📝 Notezy – A Simple, Fast & Stylish Note-Taking App
 
-> Built with 💙 React, Redux Toolkit, and Vite  
+> Built with React, Redux Toolkit, and Vite  
 > A clean and elegant application to write, manage, and preview notes seamlessly.
 
 ---
